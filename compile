@@ -1,1 +1,2 @@
 osacompile -o "Do Not Disturb.scpt" do_not_disturb.applescript
+cp "Do Not Disturb.scpt" ~/Library/Scripts
