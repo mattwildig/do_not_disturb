@@ -1,0 +1,1 @@
+osacompile -o "Do Not Disturb.scpt" do_not_disturb.applescript
